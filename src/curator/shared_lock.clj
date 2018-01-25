@@ -28,7 +28,7 @@
   Return false if the lock could not be acquired in the given time.
 
   Must be balanced by a call to release."
-  [^InterProcessSemaphoreMutex lock ^long time ^TimeUnit unit]
+  [^InterProcessSemaphoreMutex lock time unit]
   {:pre [(instance? InterProcessSemaphoreMutex lock)
          (integer? time)
          (instance? TimeUnit unit)]}
