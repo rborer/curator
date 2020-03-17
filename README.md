@@ -3,7 +3,7 @@ Curator
 
 Clojure library to interface with [Apache Curator](http://curator.apache.org/): "a keeper of a museum or other collection - A [ZooKeeper](http://zookeeper.apache.org) Keeper".
 
-![latest curator version](https://clojars.org/curator/latest-version.svg)
+![latest curator version](https://clojars.org/rborer/curator/latest-version.svg)
 
 Curator provides some ZooKeeper-implemented recipes that are extremely useful when building distributed systems.
 
