@@ -1,4 +1,4 @@
-(defproject rborer/curator "0.0.10"
+(defproject rborer/curator "0.0.11"
   :description "Clojurified Apache Curator"
   :url "https://github.com/rborer/curator"
   :license {:name "Eclipse Public License"
